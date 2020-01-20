@@ -1,0 +1,2 @@
+# Credict-Consumption-Prediction
+This project was Machine Learning project held during my Masters in data science course. It was a hackathon In which me along with my team stood 4th in this hackathon. The main objective of this project was to predict the average credit consumption for 3 months(June, July, August) given the data of previous three months. This project helped us alot and got us various insights.
